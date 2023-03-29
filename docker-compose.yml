@@ -27,3 +27,19 @@ services:
       MYSQL_DATABASE: ticketone
       MYSQL_USER: ticketone
       MYSQL_PASSWORD: ticketone
+  backend:
+    build: ./backend
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      FLASK_ENV: development
+    command: flask run --host=0.0.0.0
+  frontend:
+    build: ./frontend
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      API_URL: http://backend:5000/api
+    command: npm run dev
