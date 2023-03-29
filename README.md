@@ -7,4 +7,4 @@ Vogliamo realizzare una webApp che permette la visualizzazione di determinati ev
 
 Le funzionalità del sito sono: Accesso con autorizzazione, visualizzazione degli eventi, acquisto dei biglietti dell'evento, visualizzazione dashboard per gli utenti verificati.
 
-Svelte per frontend, il tutto collegato ad un database che salva gli utenti, containerizzazione per l'acquisto dei ticket tramite Docker Compose.
+Svelte per frontend, il tutto collegato ad un database che salva gli utenti, containerizzazione per l'acquisto dei ticket tramite Docker Compose. 
