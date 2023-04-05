@@ -10,10 +10,10 @@ Le funzionalità del sito sono: Accesso con autorizzazione attraverso Firebase, 
 Svelte per frontend, Firebase per il login, il tutto collegato ad un database che salva gli utenti, containerizzazione per l'acquisto dei ticket tramite Docker Compose.
 
 Quello che abbiamo fatto:
-Pagina iniziale completa
-Frontend completato
-Configurato Firebase
+Pagina iniziale completa,
+Frontend completato,
+Configurato Firebase.
 
 Da finire:
-Script del backend
-Configurazione Gateway di pagamento
+Script del backend,
+Configurazione Gateway di pagamento.
