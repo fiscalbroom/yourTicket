@@ -8,3 +8,12 @@ Vogliamo realizzare una webApp che permette la visualizzazione di determinati ev
 Le funzionalità del sito sono: Accesso con autorizzazione attraverso Firebase, visualizzazione degli eventi, acquisto dei biglietti dell'evento, visualizzazione dashboard per gli utenti verificati.
 
 Svelte per frontend, Firebase per il login, il tutto collegato ad un database che salva gli utenti, containerizzazione per l'acquisto dei ticket tramite Docker Compose.
+
+Quello che abbiamo fatto:
+Pagina iniziale completa
+Frontend completato
+Configurato Firebase
+
+Da finire:
+Script del backend
+Configurazione Gateway di pagamento
