@@ -7,7 +7,7 @@ Vogliamo realizzare una webApp che permette la visualizzazione di determinati ev
 
 Le funzionalità del sito sono: Accesso con autorizzazione, visualizzazione degli eventi, acquisto dei biglietti dell'evento, visualizzazione dashboard per gli utenti verificati.
 
-Framework uzati:Astro,Typescript, * per Login, Stripe per il pagamento
+Framework e linguaggi utilizzati:Astro,Typescript, * per Login, Stripe per il pagamento online
 
 Quello che abbiamo fatto:
 Pagina iniziale completa,
