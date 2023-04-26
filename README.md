@@ -1,6 +1,6 @@
 # YOURTICKET #
 
-## WebStore per l'acquisto di biglietti per eventi notturni ##
+## WebStore per l'acquisto di biglietti per eventi ##
 ### Gruppo: Baldin Giacomo, Bodini Simone, Mardare Alessandro ###
 ### L'idea iniziale è la seguente: ###
 Vogliamo realizzare una webApp che permette la visualizzazione di determinati eventi musicale (stile TicketOne) dove è visualizzabile qualsiasi categoria di eventi e tramite ad un servizio di autorizzazione poter effettuare l'acquisto dei biglietti online.
